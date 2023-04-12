@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\bin\Debug\net6.0-windows\Pomeri dugme.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\bin\Debug\net6.0-windows\Pomeri dugme.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\bin\Debug\net6.0-windows\Pomeri dugme.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\bin\Debug\net6.0-windows\Pomeri dugme.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\bin\Debug\net6.0-windows\Pomeri dugme.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri_dugme.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\refint\Pomeri dugme.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\Pomeri dugme.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Pomeri dugme\Pomeri dugme\obj\Debug\net6.0-windows\ref\Pomeri dugme.dll
